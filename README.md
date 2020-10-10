@@ -20,3 +20,5 @@ In the case of a mega team containing multiple classes use the format #:10a\Gg1,
 
 
 the file listteams.ps1 can be used to list what teams have the codes. In the case you're waiting for a teacher to change their Team names. 
+
+Getcodes2 is self contained in that it can do everything with the sims csv file and will output the upns it's adding to the team names. 
